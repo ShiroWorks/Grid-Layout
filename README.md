@@ -2,6 +2,8 @@
 
 An experimental grid layout slideshow with menu.
 
+[Live version](https://grid-layout-with-menu.netlify.app/)
+
 ## Installation
 
 Install dependencies:
